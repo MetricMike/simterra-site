@@ -1,10 +1,12 @@
 <div class="container">
-  <ul class="row">
+  <ul class="row first gallery">
     {% for staff in site.data.staff %}
     <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
       {% if staff.img %}
-        <img src="{{ staff.img }}"></img>
-        <h4>{{ staff.name }}</h4>
+        <a>
+          <h4>{{ staff.name }}</h4>
+          <img src="/{{ staff.img }}"></img>
+        </a>
       {% endif %}
     </li>
     {% endfor %}
