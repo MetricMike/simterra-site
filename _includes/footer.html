@@ -1,0 +1,30 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>{% include icon-email.html email=site.gm_email name=site.gm_name %}</li>
+          <li>{% include icon-facebook.html username=site.facebook_username %}</li>
+          <li>---</li>
+          <li>{% include icon-email.html email=site.bastion_email name=site.bastion_name %}</li>
+          <li>{% include icon-email.html email=site.lastrest_email name=site.lastrest_name%}</li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>

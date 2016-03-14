@@ -1,0 +1,47 @@
+- name: GM Matrix
+  img: "images/staff/matrix.jpg"
+  index: 1
+  about: "Drew, aka Game Master Matrix, is the spark and the face of SimTerra.
+          Over 10 years ago he started this project with GM Sunflower and GM
+          Nerf Bat. His drive for an easy system that anyone could jump in and
+          play along with a desire to have something fun that compliments out
+          of character skill drove him to create the SimTerra system. He also
+          has a passion for playing monsters, creating complex creatures, and
+          doning roles that showcase the world scope. Drew is the primary GM
+          for our first Chapter SimTerra: Bastion. You will often find Drew
+          out in the field battling PCs, creeping through corridors, or
+          organizing the next set of NPCs to come out for the enjoyment
+          of our players."
+
+- name: GM Sunflower
+  img: "images/staff/sunflower.jpg"
+  index: 2
+  about: "Dup"
+
+- name: GM Nerfbat
+  index: 3
+  about: "Dup"
+
+- name: HF TinyMouse
+  index: 4
+  about: "Dup"
+
+- name: GS GoldDragon
+  index: 5
+  about: "Dup"
+
+- name: GS BlueImp
+  index: 6
+  about: "Dup"
+
+- name: GS Ninja
+  index: 7
+  about: "Dup"
+
+- name: GS Chompy
+  index: 8
+  about: "Dup"
+
+- name: GS Morpho
+  index: 9
+  about: "Dup"

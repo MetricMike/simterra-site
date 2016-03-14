@@ -1,0 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: SimTerra
+gm_email: simterra@googlegroups.com
+gm_name: SimTerra GMs
+bastion_email: simterrabastion@googlegroups.com
+bastion_name: Bastion Chapter (VA)
+lastrest_email: simterralastrest@googlegroups.com
+lastrest_name: Last Rest Chapter (KS)
+description: > # this means to ignore newlines until "baseurl:"
+  A post-apocalyptic, fantasy LARP set in an alternate/future Earth centuries
+  after modern civilization has crumbled and nature has retaken most of the world.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.simterra.net" # the base hostname & protocol for your site
+facebook_username: Simterra FB Page
+
+# Build settings
+markdown: kramdown
