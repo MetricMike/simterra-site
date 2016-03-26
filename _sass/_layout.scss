@@ -30,19 +30,39 @@
 .site-nav {
     float: right;
     line-height: 56px;
+    width: 100%;
+    background-color: black;
 
     .menu-icon {
         display: none;
     }
 
-    .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
+    .nav-items {
+        margin: 0px;
+        list-style: none;
+        text-align: center;
 
-        // Gaps between nav items, but not on the last one
-        &:not(:last-child) {
-            margin-right: 20px;
+        li {
+            padding: 0px 25px;
+            display: inline-block;
+
+            .page-link {
+                color: white;
+                line-height: $base-line-height;
+                text-transform: uppercase;
+
+                &:hover {
+                    color: aqua;
+                }
+
+                // Gaps between nav items, but not on the last one
+                &:not(:last-child) {
+                    margin-right: 20px;
+                }
+            }
+
         }
+
     }
 
     @include media-query($on-palm) {
@@ -179,11 +199,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
-    .wrapper {
-        padding: 0px;
-        max-width: 2048px;
-    }
+    padding: 0px;
 }
 
 .page-heading {
