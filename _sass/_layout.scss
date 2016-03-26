@@ -2,8 +2,6 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -168,11 +166,11 @@
 }
 
 .banner-container {
-  background-size: contain;
+  background-size: cover;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  height: 300px;
+  height: 450px;
   width: 100%;
 }
 
@@ -182,6 +180,10 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    .wrapper {
+        padding: 0px;
+        max-width: 2048px;
+    }
 }
 
 .page-heading {
