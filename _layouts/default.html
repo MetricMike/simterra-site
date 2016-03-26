@@ -2,6 +2,13 @@
 <html>
 
   {% include head.html %}
+  <head>
+    <style>
+      .background-div {
+        background-image: url(/images/{{ page.banner-img }});
+      }
+    </style>
+  </head>
 
   <body>
 
@@ -9,6 +16,7 @@
 
     <div class="page-content">
       <div class="wrapper">
+        <div class="banner-container background-div"></div>
         {{ content }}
       </div>
     </div>

@@ -82,7 +82,9 @@ ul .gallery {
 }
 ul li {
   list-style:none;
-  margin-bottom:25px;
+  .wide {
+    margin-bottom:25px;
+  }
 }
 ul li img {
   cursor: pointer;
