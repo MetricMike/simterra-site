@@ -10,8 +10,9 @@
           <li>{% include icon-email.html email=site.gm_email name=site.gm_name %}</li>
           <li>{% include icon-facebook.html username=site.facebook_username %}</li>
           <li>---</li>
-          <li>{% include icon-email.html email=site.bastion_email name=site.bastion_name %}</li>
-          <li>{% include icon-email.html email=site.lastrest_email name=site.lastrest_name%}</li>
+          {% for chapter in site.data.chapters %}
+            <li>{% include icon-email.html email=chapter.email name=chapter.name %}</li>
+          {% endfor %}
         </ul>
       </div>
 
