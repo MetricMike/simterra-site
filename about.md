@@ -2,10 +2,11 @@
 layout: page
 title: About
 full_title: About SimTerra
+banner-img: about.jpg
 permalink: /about/
 ---
 
-![](/images/about.jpg){:style="float: right;margin: 0px 25px 15px 15px;"}
+![](/images/about/inline.jpg){:style="float: right;margin: 0px 0px 15px 15px;"}
 
 #### Intrigue, atmosphere, adventure and danger around the corner while camaraderie, laughter and enjoyment awaits you.
 

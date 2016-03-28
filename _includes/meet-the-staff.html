@@ -1,14 +1,14 @@
-<div class="container">
-  <ul class="row first gallery">
-    {% for staff in site.data.staff %}
-    <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-      {% if staff.img %}
-        <a>
-          <h4>{{ staff.name }}</h4>
-          <img src="/{{ staff.img }}"></img>
-        </a>
-      {% endif %}
-    </li>
-    {% endfor %}
-  </ul>
+<div id="meet-the-staff-container" class="collapsible">
+  <h3>MEET THE STAFF</h3>
+  <div class="panel-group" id="staff_accordion" role="tablist" aria-multiselectable="true">
+    <div class="list-group">
+      {% for staff in site.data.staff %}
+      <div class="staff-item">
+        <button type="button" class="list-group-item" data-container="body" data-toggle="popover" data-content="{{ staff.about }}" data-trigger="focus" title="{{ staff.name }}" style="background-image: url(/images/about/{{ staff.img }})">
+          {{ staff.name }}
+        </button>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>
