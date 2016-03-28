@@ -1,5 +1,5 @@
 - name: GM Matrix
-  img: "images/staff/matrix.jpg"
+  img: "matrix.jpg"
   index: 1
   about: "Drew, aka Game Master Matrix, is the spark and the face of SimTerra.
           Over 10 years ago he started this project with GM Sunflower and GM
@@ -14,34 +14,127 @@
           of our players."
 
 - name: GM Sunflower
-  img: "images/staff/sunflower.jpg"
+  img: "sunflower.jpg"
   index: 2
-  about: "Dup"
+  about: "Micha, aka Game Master Sunflower, is SimTerra's world story teller
+          who keeps track of the high arcane, mysteries, and in character
+          atmosphere. From the start Micha was involved in the first iteration
+          of magic and as our world grew she keeps the secrets of those dire
+          high arcane pieces, creatures, and cultures. Micha also keeps track
+          of which plot lines are run by what staff members so that if you
+          have a question, she can often point you in the right direction of
+          who to go to. Lastly, GM Sunflower is without a doubt our mistress
+          of horror and runs the SimTerra: Aquia Chapter which is filled with
+          monsters, mysteries, and scares around every corner. You will often
+          find Micha out playing intricate characters with detailed costumes
+          that represent the race or you will find her back at NPC shack
+          getting NPCs ready to go out and make the world a much larger place."
 
 - name: GM Nerfbat
+  img: "nerfbat.jpg"
   index: 3
-  about: "Dup"
+  about: "Bob, aka Game Master Nerf Bat, is our system balancing master. He can
+          take the desires of our story tellers and the system minds of our
+          judicators and place them out perfectly. Not only can he look at the
+          entire picture, he is perfect at being able to run down a track and
+          make sure that the end result is exactly what staff need. Bob has a
+          unique spin which allows him not only to play interesting characters
+          but he has the drive to create fascinating and horrific creatures
+          that will terrorize the battlefield. You will often find Bob
+          scrambling around NPC shack making sure everything is set to go for
+          the next mod or out playing any number of fascinating characters or
+          creatures."
 
 - name: HF TinyMouse
+  img: "tinymouse.jpg"
   index: 4
-  about: "Dup"
+  about: "Michael, aka Head Facilitator Tiny Mouse, is our lead on logistics
+          both between events and on site. He is an integral and irreplacable part
+          of our team. Not only is he the mind behind SimRep but he is also our
+          chief coordinator. From handling character sheets at check in, skill point
+          distribution and expenditure, the in character bank, the emails and more,
+          Michael has a way of making sure that everything is taken care of. Every
+          NPC checks in with him, every staff member (even our 3 GMs) run things
+          past him and all PCs know that if they need anything, they can check in and
+          our Head Facilitator will have it covered. You will almost always find
+          Michael sitting at the head of NPC shack on his super computer except for
+          those rare times he is out as a character which is vital for the plot
+          that is coming up."
 
 - name: GS GoldDragon
+  img: "golddragon.jpg"
   index: 5
-  about: "Dup"
+  about: "Adam, aka Game Staff Gold Dragon, is one of our epic story
+          tellers who enjoys darker plot lines which dip into head space. Gold
+          Dragon is one of our in depth STs who enjoys not only making sure that
+          players have a blast on his mods but takes the extra time to really
+          interact with those players, driving home that they are in the world of
+          SimTerra. A place where nothing is as it seems. You can often find Adam
+          out as one of his many interesting characters or paying one of our flavor
+          adding 'Big Bad' monsters."
 
 - name: GS BlueImp
+  img: "blueimp.jpg"
   index: 6
-  about: "Dup"
+  about: "Luke, aka Game Staff Blue Imp, is another of our fantastic story
+          tellers. Luke's focus really drives home that you are a person out in the
+          middle of a budding homeland. He brings fresh new ideas to the game every
+          event along with new short term one offs. Luke focuses on the day to day
+          roleplays that truly shows off that even though you have to do hero things
+          to keep Bastion running, you also have to make sure everything else runs
+          smoothly at the water mill. That those bandits that attacked the incoming
+          caravan don't get away with the incoming crops. That there may be something
+          strange and wonderful around the corner. You will often find Luke running
+          around the campsite making sure that all our players, new and veteran, are
+          enjoying their event."
 
 - name: GS Ninja
+  img: "ninja.jpg"
   index: 7
-  about: "Dup"
+  about: "Mark, aka Game Staff Ninja, is our staff member who is always up for
+          a good battle with the players, whether as an enemy or an ally. He jumps into
+          any engagement with vigor and aims to make sure that the players get the best
+          experience possible. He is often charged with a range of roles from monsters
+          and high level creatures to a cast of unique characters that highlight his
+          enjoyment of teaching our PC base. You can often find Mark playing in depth
+          characters or running mods during the day and stalking our players at night
+          with a stealthy monster that could come from anywhere."
 
 - name: GS Chompy
+  img: "chompy.jpg"
   index: 8
-  about: "Dup"
+  about: "Scotty, aka Game Staff Chompy, is one of our most intuitive staff
+          members who can create fun and interesting mods on the fly that are not
+          only full of wondrous monsters but also full of thought intensive puzzles.
+          He is also part of our Check-In Team and often handles armor, item creation,
+          and tags. When Scotty is out you can always expect to see something different.
+          Scotty's strength is making sure that no two things are ever exactly alike so
+          when you see him coming expect every character to be different and every mod to
+          have its own excellent quirks that players have to work through. You can often
+          find Scotty prepping a number of mods in NPC shack, out as the lead for the
+          next story or just being helpful to our new players."
+
+- name: GS Slender
+  img: "slender.jpg"
+  index: 9
+  about: "Scott, aka Game Staff Slender, is another of our staff who does a lot
+          of double duty here at the Bastion chapter of SimTerra. Scott is excellent at
+          running stats, balancing them and making sure that the monsters that go out
+          are interesting but not overpowered. He currently part time PCs Bastion, is
+          an incredibly valuable part of our SimTerra: Aquia Chapter, and is going to
+          be the Game Master at the upcoming Holurheim Chapter. You
+          can often find Scott out playing his PC in Bastion but when he is not then you
+          can find him on the field monitoring battles, making rules calls, playing some
+          of our more horrifying 'Big Bads' along side GM Matrix and ensuring a fun and
+          safe environment for our Pcs."
 
 - name: GS Morpho
-  index: 9
-  about: "Dup"
+  img: "morpho.jpg"
+  index: 10
+  about: "Katie, aka GS Morpho, is our staff member who deals the most in completely
+          story driven plot lines. She does a great deal with personal plot, behind the
+          scenes work, making fascinating Non-Com characters for everyone to interact with,
+          and lastly ensures that our team has fresh creativity with each of her mods.
+          Thinking outside the box is Katie's specialty. You can often find her out as a
+          NPC character whose costume, voice, and demeanor add the perfect ambiance for
+          whatever Mod she is a part of."
