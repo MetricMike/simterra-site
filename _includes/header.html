@@ -24,7 +24,7 @@
             <li><a class="page-link" href="{{ home_page.url | prepend: site.baseurl }}">{{ home_page.title }}</a></li>
           {% endfor %}
           {% for page in site.pages %}
-            {% if page.title != "SimTerra" %}
+            {% if page.title and page.title != "SimTerra" %}
             <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
