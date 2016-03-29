@@ -280,6 +280,13 @@
 			font-size: 18px;
 		}
 	}
+
+	ul {
+		li {
+			list-style: inherit;
+			padding: 2px;
+		}
+	}
 }
 
 /* Image Rows */
