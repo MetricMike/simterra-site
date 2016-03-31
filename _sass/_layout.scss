@@ -55,7 +55,7 @@
 				text-transform: uppercase;
 
 				&:hover {
-					color: aqua;
+					color: #407B38;
 				}
 
 				// Gaps between nav items, but not on the last one
@@ -312,7 +312,7 @@ ul.image-row {
 		.link {
 			width: 300px;
 			height: 50px;
-			background-color: grey;
+			background-color: black;
 			padding: 2.5px 10px;
 			display: table-cell;
 			margin: 5px 0;
@@ -322,9 +322,10 @@ ul.image-row {
 			a {
 				text-transform: uppercase;
 				color: white;
+				font-weight: 700;
 
 				&:hover {
-					color: aqua;
+					color: #407B38;
 				}
 			}
 		}
@@ -340,12 +341,10 @@ ul.image-row {
 
 	h3 {
 	  padding: 10px;
-	  background-color: grey;
-	  color: aqua;
-
-	  &:hover {
-		  text-decoration: underline;
-	  }
+	  padding-left: 40px;
+	  background-color: black;
+	  color: white;
+	  font-weight: 700;
 	}
 
 	.staff-item {
@@ -355,6 +354,7 @@ ul.image-row {
 		float: left;
 
 		button {
+			font-weight: 900;
 			width: 250px;
 			height: 225px;
 			background-position-x: 50%;
@@ -366,4 +366,15 @@ ul.image-row {
 		}
 	}
 
+}
+
+.chapter-container {
+	width: 80%;
+	margin: 50px auto;
+	display: block;
+
+	.chapter-banner {
+		width: 100%;
+		float: right;
+	}
 }
