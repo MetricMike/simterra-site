@@ -11,7 +11,7 @@
           for our first Chapter SimTerra: Bastion. You will often find Drew
           out in the field battling PCs, creeping through corridors, or
           organizing the next set of NPCs to come out for the enjoyment
-          of our players."
+          of our players. He also part time PCs at our Holurheim Chapter."
 
 - name: GM Sunflower
   img: "sunflower.jpg"
@@ -43,27 +43,34 @@
           that will terrorize the battlefield. You will often find Bob
           scrambling around NPC shack making sure everything is set to go for
           the next mod or out playing any number of fascinating characters or
-          creatures."
+          creatures. He also part time PCs at our Holurheim Chapter."
+
+- name: GM Slender
+  img: "slender.jpg"
+  index: 4
+  about: "Scott, aka Game Master Slender, is the head and heart of our Holurheim Chapter.
+          Scott is excellent at running stats, balancing them and making sure that the
+          monsters that go out are interesting but not overpowered. When he's not building
+          consensus and carving space for his Staff to flourish at what they do best, you
+          can often find Scott out playing his PC in Bastion."
 
 - name: HF TinyMouse
   img: "tinymouse.jpg"
-  index: 4
+  index: 5
   about: "Michael, aka Head Facilitator Tiny Mouse, is our lead on logistics
           both between events and on site. He is an integral and irreplacable part
           of our team. Not only is he the mind behind SimRep but he is also our
           chief coordinator. From handling character sheets at check in, skill point
           distribution and expenditure, the in character bank, the emails and more,
           Michael has a way of making sure that everything is taken care of. Every
-          NPC checks in with him, every staff member (even our 3 GMs) run things
+          NPC checks in with him, every staff member (even our 4 GMs) run things
           past him and all PCs know that if they need anything, they can check in and
           our Head Facilitator will have it covered. You will almost always find
-          Michael sitting at the head of NPC shack on his super computer except for
-          those rare times he is out as a character which is vital for the plot
-          that is coming up."
+          Michael sitting at the head of NPC shack on his super computer."
 
 - name: GS GoldDragon
   img: "golddragon.jpg"
-  index: 5
+  index: 6
   about: "Adam, aka Game Staff Gold Dragon, is one of our epic story
           tellers who enjoys darker plot lines which dip into head space. Gold
           Dragon is one of our in depth STs who enjoys not only making sure that
@@ -75,7 +82,7 @@
 
 - name: GS BlueImp
   img: "blueimp.jpg"
-  index: 6
+  index: 7
   about: "Luke, aka Game Staff Blue Imp, is another of our fantastic story
           tellers. Luke's focus really drives home that you are a person out in the
           middle of a budding homeland. He brings fresh new ideas to the game every
@@ -90,7 +97,7 @@
 
 - name: GS Ninja
   img: "ninja.jpg"
-  index: 7
+  index: 8
   about: "Mark, aka Game Staff Ninja, is our staff member who is always up for
           a good battle with the players, whether as an enemy or an ally. He jumps into
           any engagement with vigor and aims to make sure that the players get the best
@@ -102,7 +109,7 @@
 
 - name: GS Chompy
   img: "chompy.jpg"
-  index: 8
+  index: 9
   about: "Scotty, aka Game Staff Chompy, is one of our most intuitive staff
           members who can create fun and interesting mods on the fly that are not
           only full of wondrous monsters but also full of thought intensive puzzles.
@@ -114,20 +121,6 @@
           find Scotty prepping a number of mods in NPC shack, out as the lead for the
           next story or just being helpful to our new players."
 
-- name: GS Slender
-  img: "slender.jpg"
-  index: 9
-  about: "Scott, aka Game Staff Slender, is another of our staff who does a lot
-          of double duty here at the Bastion chapter of SimTerra. Scott is excellent at
-          running stats, balancing them and making sure that the monsters that go out
-          are interesting but not overpowered. He currently part time PCs Bastion, is
-          an incredibly valuable part of our SimTerra: Aquia Chapter, and is going to
-          be the Game Master at the upcoming Holurheim Chapter. You
-          can often find Scott out playing his PC in Bastion but when he is not then you
-          can find him on the field monitoring battles, making rules calls, playing some
-          of our more horrifying 'Big Bads' along side GM Matrix and ensuring a fun and
-          safe environment for our Pcs."
-
 - name: GS Morpho
   img: "morpho.jpg"
   index: 10
@@ -138,3 +131,28 @@
           Thinking outside the box is Katie's specialty. You can often find her out as a
           NPC character whose costume, voice, and demeanor add the perfect ambiance for
           whatever Mod she is a part of."
+
+- name: GS PoshSpice
+  img: "poshspice.jpg"
+  index: 11
+  about: ""
+
+- name: GS PanicButton
+  img: "panicbutton.jpg"
+  index: 12
+  about: ""
+
+- name: GS Gemini
+  img: "gemini.jpg"
+  index: 13
+  about: ""
+
+- name: GS Irish
+  img: "irish.jpg"
+  index: 14
+  about: ""
+
+- name: GS Bronze
+  img: "bronze.jpg"
+  index: 15
+  about: ""
