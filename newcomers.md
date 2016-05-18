@@ -21,9 +21,9 @@ permalink: /newcomers/
   </div>
   <div class="pull-left col-md-6"><h4>Paperwork</h4>
     <ul>
-      <li>We ask all players to print, fill out, and sign this coversheet here. Please be sure to add any and all allergies here.</li>
-      <li>SimTerra also requires all players to print, fill out, and sign this <a href="https://drive.google.com/open?id=0B3jOhksaqG13VnllNzlUOXlvT0E">waiver</a>. It will be required before you are allowed to play.</li>
-      <li>This LARP is 16+ and is rated PG16. Any player under 18 will be required to have an adult signature. Parental Permission Waiver can be found <a href="https://drive.google.com/open?id=0B3jOhksaqG13WDNtNHRJRFZZY0k">here</a>.</li>
+      <li>We ask all players to print, fill out, and sign the waiver <a href="https://drive.google.com/open?id=0B3jOhksaqG13VnllNzlUOXlvT0E">here</a>. Please be sure to add any allergies that you may have to it.
+      </li>
+      <li>This LARP is 16+ and is rated PG16. If you are 16 years old - 18 years old, please have your parent/guardian fill out the paperwork <a href="https://drive.google.com/open?id=0B3jOhksaqG13WDNtNHRJRFZZY0k">here</a>.</li>
     </ul>
   </div>
   <div class="pull-left col-md-6"><h4>More Info for New Players</h4>
