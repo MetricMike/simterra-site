@@ -13,8 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
   A post-apocalyptic, fantasy LARP set in an alternate/future Earth centuries
   after modern civilization has crumbled and nature has retaken most of the world.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.simterra.net" # the base hostname & protocol for your site
+url: "https://www.simterra.net" # the base hostname & protocol for your site
 facebook_username: Simterra FB Page
+docs_url: "https://docs.google.com/document/d/1fOBNu7UqoxkuoiWcn2Wky2ONye2H3IC2Miv5BNqDwgk/edit?usp=sharing"
 
 # Build settings
 markdown: kramdown
