@@ -5,7 +5,12 @@ layout: default
 <article class="post">
   <header class="post-header">
     <h1 class="post-title">{{ page.full_title }}</h1>
+    {% if page.subtitle %}
+    <h3 class="post-subtitle">{{ page.subtitle }}</h3>
+    {% endif %}
   </header>
+
+  <br/>
 
   <div class="post-content">
     {{ content }}

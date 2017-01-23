@@ -2,6 +2,7 @@
 layout: page
 title: Newcomers
 full_title: Newcomers
+subtitle: "Read our <a href='{{ site.docs_url }}'>Rules</a> and <a href='{{ site.quickstart_url }}'>Getting Started</a> guide!</li>"
 banner-img: newcomers.jpg
 permalink: /newcomers/
 ---
